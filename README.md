@@ -1,2 +1,2 @@
 # hello-world
-Learning to use GitHub
+This is Datta and he is trying to learn to use GitHub
